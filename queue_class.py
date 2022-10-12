@@ -1,13 +1,10 @@
 '''
 Author: Ansh Rajput
-KUID: 3057528
 Date: Monday, Feburary 21
-Lab: lab 3
 Last modified: Sunday, Feburary 27 
 Purpose: The purpose of the Queue class is to add items to the back of the queue,
          remove items from the front of the queue, return items in the front of
-         the queue, and check to see if the queue is empty or not.
-        
+         the queue, and check to see if the queue is empty or not.    
 '''
 
 class Queue:
