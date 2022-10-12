@@ -1,8 +1,6 @@
 '''
 Author: Ansh Rajput
-KUID: 3057528
 Date: Monday, Feburary 21
-Lab: lab 3
 Last modified: Sunday, Feburary 27 
 Purpose: The purpose of driver is to use the other classes such as Node and Queue to create
          a mock CPU scheduler. It also holds the main which reads given file and then calls
