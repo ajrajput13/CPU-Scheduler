@@ -1,12 +1,9 @@
 '''
 Author: Ansh Rajput
-KUID: 3057528
 Date: Monday, Feburary 21
-Lab: lab 3
 Last modified: Sunday, Feburary 27 
 Purpose: The purpose of the Stack class is create a stack in which items
          can be added, removed, and checked to see if it is empty.
-        
 '''
 
 from calls_class import Calls
