@@ -1,8 +1,6 @@
 '''
 Author: Ansh Rajput
-KUID: 3057528
 Date: Monday, Feburary 21
-Lab: lab 3
 Last modified: Sunday, Feburary 27 
 Purpose: The purpose of the Call class is to hold the code needed when another class
          calls it. When used with other classes and code, the call class will put
