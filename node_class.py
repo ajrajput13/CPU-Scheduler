@@ -1,12 +1,9 @@
 '''
 Author: Ansh Rajput
-KUID: 3057528
 Date: Monday, Feburary 21
-Lab: lab 3
 Last modified: Sunday, Feburary 27 
 Purpose: The purpose of the Node class is to hold the code needed when another class
-         calls it. It uses the Stack class to implement code so that the Queue class works.
-        
+         calls it. It uses the Stack class to implement code so that the Queue class works.     
 '''
 
 from stack_class import Stack
